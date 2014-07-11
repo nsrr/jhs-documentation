@@ -1,4 +1,4 @@
-jhs-documentation
+JHS Documentation
 =================
 
-JHS documentation for sleepdata.org
+Version controlled repository for JHS documentation on [sleepdata.org](http://sleepdata.org/datasets/jhs)
