@@ -2,6 +2,9 @@
 
 Learn more here: http://www.umc.edu/News_and_Publications/Press_Release/2012-12-19-00_Sleep_Study_in_African-Americans_seeks_connections_to_heart_disease,_stroke.aspx
 
+## Equipment
+- [Montage and Sampling Rate Information](:pages_path:/equipment/montage-and-sampling-rate-information.md)
+
 ## Citation
 
 When citing this dataset please use:
